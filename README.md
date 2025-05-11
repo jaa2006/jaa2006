@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.imghippo.com/files/xn5367Ls.png" width="750" alt="Zulfikar Sandira" />
+</p>
+
+---
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Zulfikar+Sandira;Front-End+Developer+%26+Cyber+Enthusiast;UI%2FUX+Designer+%7C+React+%7C+GSAP+Wizard" alt="Typing SVG" />
 </h1>
