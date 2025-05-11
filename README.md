@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imghippo.com/files/xn5367Ls.png" width="750" alt="Zulfikar Sandira" />
+  <img src="https://i.imghippo.com/files/xn5367Ls.png" width="500" alt="Zulfikar Sandira" />
 </p>
 
 ---
